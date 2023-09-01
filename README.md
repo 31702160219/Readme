@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://api.jnsq.gzkz.cn/uploads/file/48095ac42d2cf2f73d30ed9ec8b93f8a_20230825181543.png" width="401.75" height="284.5" />
+<img src="https://api.jnsq.gzkz.cn/uploads/file/a355648f5acb7711ae96427f450016d4_20230901112446.png" width="401.75" height="284.5" />
 </div>
 <div align=center>
 <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs"/>
